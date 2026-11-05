@@ -1,0 +1,35 @@
+loading C:/src/SRS8/flutter_application_1/test/matches_cubit_test.dart
+C:/src/SRS8/flutter_application_1/test/matches_cubit_test.dart: 5. фильтрация и поиск поиск по загруженным матчам: по карте и по агенту, без учёта регистра
+C:/src/SRS8/flutter_application_1/test/matches_cubit_test.dart: 5. фильтрация и поиск сортировка по дате в обе стороны
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: 3. успешная загрузка матчей через репозиторий + запись в кэш
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: 3. успешная загрузка матчей через репозиторий + запись в кэш
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: 3. успешная загрузка матчей через репозиторий + запись в кэш
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: 3. успешная загрузка матчей через репозиторий + запись в кэш
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: 3. успешная загрузка матчей через репозиторий + запись в кэш
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: 3. успешная загрузка матчей через репозиторий + запись в кэш
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: 3. успешная загрузка матчей через репозиторий + запись в кэш
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: 3. успешная загрузка матчей через репозиторий + запись в кэш
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: 3. успешная загрузка матчей через репозиторий + запись в кэш
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: 3. успешная загрузка матчей через репозиторий + запись в кэш
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: следующая страница дописывается в кэш без дубликатов
+C:/src/SRS8/flutter_application_1/test/models_test.dart: JSON → модель 1. StoredMatch успешно создаётся из JSON (с вложенными объектами)
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: 4. ошибка сервера → ServerException, последний успешный кэш сохраняется
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: 4. ошибка сервера → ServerException, последний успешный кэш сохраняется
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: 4. ошибка сервера → ServerException, последний успешный кэш сохраняется
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: 4. ошибка сервера → ServerException, последний успешный кэш сохраняется
+C:/src/SRS8/flutter_application_1/test/models_test.dart: модель → JSON 2. StoredMatch преобразуется обратно в JSON без потерь
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: кэши разных фильтров не смешиваются
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: кэши разных фильтров не смешиваются
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: единый механизм ошибок нет соединения
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: единый механизм ошибок таймаут
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: единый механизм ошибок HTTP 4xx (например, 429 — лимит API)
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: единый механизм ошибок некорректный JSON (нет обязательного поля)
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: единый механизм ошибок технические подробности не попадают в текст для пользователя
+C:/src/SRS8/flutter_application_1/test/match_repository_test.dart: ключ API добавляется заголовком Authorization только для HenrikDev
+C:/src/SRS8/flutter_application_1/test/notes_test.dart: POST через mock-адаптер Dio (без интернета) созданная заметка возвращается с пометкой «создано локально»
+C:/src/SRS8/flutter_application_1/test/notes_test.dart: POST через mock-адаптер Dio (без интернета) после загрузки списка с сервера пометка «локально» исчезает
+C:/src/SRS8/flutter_application_1/test/notes_test.dart: POST через mock-адаптер Dio (без интернета) ошибка сервера при POST → ServerException; POST не повторяется автоматически
+C:/src/SRS8/flutter_application_1/test/notes_test.dart: валидация формы title: обязательный, 5–100 символов
+C:/src/SRS8/flutter_application_1/test/notes_test.dart: валидация формы body: обязательный, 10–1000 символов
+C:/src/SRS8/flutter_application_1/test/notes_test.dart: валидация формы агент обязателен
+All tests passed!

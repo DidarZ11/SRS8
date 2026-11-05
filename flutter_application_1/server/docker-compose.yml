@@ -1,0 +1,9 @@
+services:
+  api:
+    build: .
+    container_name: post-explorer-api
+    ports:
+      - "3000:3000"
+    environment:
+      - API_DELAY_MS=400
+    restart: unless-stopped
